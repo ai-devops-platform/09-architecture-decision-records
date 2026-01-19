@@ -32,17 +32,19 @@ Provide transparency for reviews and audits
 ---
 
 ## 🌟 Key Features
-Feature	Description
-ADR Template	Standardized markdown template for documenting decisions
-Problem Statement	Clearly describe the issue or requirement
-Alternatives Considered	List and analyze possible solutions
-Decision Outcome	Document chosen solution and rationale
-Consequences	Highlight potential impact, trade-offs, and future considerations
-References	Links to RFCs, standards, or technical documentation
-Versioning	Track decision updates and revisions
-Integration	Link ADRs to code, repos, and Jira/Confluence for traceability
-Review Workflow	PR-based review and approval of ADRs
-Searchable Index	Centralized index for easy lookup and navigation
+| Feature                 | Description                                                       |
+| ----------------------- | ----------------------------------------------------------------- |
+| ADR Template            | Standardized markdown template for documenting decisions          |
+| Problem Statement       | Clearly describe the issue or requirement                         |
+| Alternatives Considered | List and analyze possible solutions                               |
+| Decision Outcome        | Document chosen solution and rationale                            |
+| Consequences            | Highlight potential impact, trade-offs, and future considerations |
+| References              | Links to RFCs, standards, or technical documentation              |
+| Versioning              | Track decision updates and revisions                              |
+| Integration             | Link ADRs to code, repos, and Jira/Confluence for traceability    |
+| Review Workflow         | PR-based review and approval of ADRs                              |
+| Searchable Index        | Centralized index for easy lookup and navigation                  |
+
 
 ---
 
